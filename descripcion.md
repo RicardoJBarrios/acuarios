@@ -8,7 +8,7 @@ El sistema se diseña alrededor de un Betta HMPK con invertebrados funcionales, 
 
 ## Premisas del sistema y límites operativos
 
-Acuario plantado de pequeño volumen (30–40 L nominales) destinado a un **despacho profesional**, con alta carga tecnológica y control de temperatura automatizado, priorizando **estabilidad biológica**, **bajo mantenimiento**, **silencio** y **coherencia estética** con el estilo nórdico–industrial del entorno. No se busca un acuario de impacto, sino un **paisaje vivo, funcional y duradero**, inspirado en los **barrancos volcánicos y transiciones roca–arena de Tenerife**.
+Acuario plantado de pequeño volumen (~40 L nominales) destinado a un **despacho profesional**, con alta carga tecnológica y control de temperatura automatizado, priorizando **estabilidad biológica**, **bajo mantenimiento**, **silencio** y **coherencia estética** con el estilo nórdico–industrial del entorno. No se busca un acuario de impacto, sino un **paisaje vivo, funcional y duradero**, inspirado en los **barrancos volcánicos y transiciones roca–arena de Tenerife**.
 
 El sistema se diseña para un usuario con **poca experiencia** y **viajes frecuentes**, en un clima templado que favorece el **control pasivo de temperatura**. La estética debe surgir del **funcionamiento ecológico**, no de la ornamentación ni de ajustes constantes.
 
