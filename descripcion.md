@@ -1,4 +1,10 @@
-# Diseño de acuario
+# Diseño del acuario "Barranco"
+
+Diseño y operación de un acuario plantado low-tech de unos ~40 L nominales, concebido como ecosistema estable, silencioso y de baja intervención, integrado en un despacho profesional.
+
+Inspirado en barrancos volcánicos de Tenerife y en principios wabi-sabi, prioriza función ecológica, longevidad y coherencia estética sobre impacto visual inmediato.
+
+El sistema se diseña alrededor de un Betta HMPK con invertebrados funcionales, biología distribuida, regulación pasiva y control técnico orientado a evitar fallos, no a microgestionar.
 
 ## Premisas del sistema y límites operativos
 
@@ -8,8 +14,7 @@ El sistema se diseña para un usuario con **poca experiencia** y **viajes frecue
 
 ### Principios biológicos y técnicos
 
-- **Compatibilidad absoluta con la fauna** (Betta + invertebrados): refugios reales, sombras, zonas de calma, ruptura de líneas de visión y áreas de nado abiertas.  
-  Hardscape, sustrato y flora se subordinan a este objetivo.
+- **Compatibilidad absoluta con la fauna** (Betta + invertebrados): refugios reales, sombras, zonas de calma, ruptura de líneas de visión y áreas de nado abiertas. Hardscape, sustrato y flora se subordinan a este objetivo.
 - **Inspiración Walstad (no purista)**: fuerte peso del sustrato, flora como motor metabólico y hardscape como biofiltro pasivo.
 - **Low-tech real**: sin CO₂ y sin abonado líquido frecuente; plantas robustas y previsibles; iluminación media estable (20–30 lm/L) con tolerancia funcional para especies de baja demanda (10–20 lm/L), asumiendo variación por estratos.
 - **Filtración externa** orientada a estabilidad, reducción de riesgos y minimización del mantenimiento, compensando la inexperiencia del usuario.
@@ -17,7 +22,7 @@ El sistema se diseña para un usuario con **poca experiencia** y **viajes frecue
 
 ### Supuestos y límites del sistema
 
-Este acuario es un **ecosistema cerrado y deliberadamente estable**, no un montaje experimental ni un sistema escalable sin rediseño.
+Este acuario es un **ecosistema cerrado y deliberadamente estable**, no un montaje experimental ni un sistema técnico escalable sin rediseño.
 
 - **Volumen reducido, bajo margen de error**: los cambios deben ser medidos, espaciados y con intención clara; no admite improvisaciones.
 - **Carga biológica centrada en un único pez**: el sistema se diseña alrededor del Betta; añadir más peces rompe los balances previstos.
@@ -103,7 +108,7 @@ La playa frontal se define como un área **baja, plana y despejada**, concebida 
 
 ### Hardscape: madera estructural
 
-La madera estructural se compone de una o dos piezas de madera de vid integradas desde el origen del montaje. Nacen visualmente de la masa rocosa principal y se proyectan hacia el frontal, reforzando la **direccionalidad del paisaje**.
+La madera estructural se compone de una o dos piezas de madera de vid, en referencia a la cultura vinitícola tinerfeña, integradas desde el origen del montaje. Nacen visualmente de la masa rocosa principal y se proyectan hacia el frontal, reforzando la **direccionalidad del paisaje**.
 
 No introduce simetrías ni protagonismo; su función es **estructural y biológica**, no ornamental.
 
@@ -164,8 +169,6 @@ La masa rocosa disipa la energía inicial, el cauce canaliza el movimiento y las
 - Eliminación de corrientes dominantes o lineales.
 - Soporte energético estable para biología distribuida.
 
-La tapa es **obligatoria**. En sistemas con flujo difuso y biofilm activo, tanto el Betta como las *Caridina* exploran la zona alta de la columna de agua; un acuario abierto introduce un riesgo inaceptable de salto o escape.
-
 Los detalles técnicos concretos de filtración y orientación se definen más adelante, siempre subordinados a estos principios.
 
 ### Refugios: principios comportamentales
@@ -173,8 +176,8 @@ Los detalles técnicos concretos de filtración y orientación se definen más a
 Los refugios no se entienden como elementos físicos aislados, sino como **consecuencia espacial** del ensamblaje del hardscape y el plantado.
 
 **Principios comportamentales:**
-- Nunca cuevas cerradas.
-- Siempre múltiples entradas y salidas.
+- No utilizar cuevas completamente cerradas.
+- Debe haber múltiples entradas y salidas.
 - Accesibles a gambas, no dominables por el Betta.
 - Distribuidos en vertical (fondo–medio–subsuperficie).
 - Sin generar territorios defendibles ni bolsas de agua muerta.
@@ -184,11 +187,11 @@ Los refugios permiten que la fauna **se autorregule conductualmente**, reduciend
 
 ## Flora
 
-La **flora** constituye la **capa biológica activa** del ecosistema y actúa como su principal motor metabólico. Regula la disponibilidad de nutrientes, modula la luz, condiciona el comportamiento de la fauna y sostiene la mayor parte de los procesos de reciclaje interno.
+La **flora** constituye la **capa biológica activa** del ecosistema y actúa como su principal motor metabólico. Regula la disponibilidad de nutrientes, modula la luz, condiciona el comportamiento de la fauna y sostiene la mayor parte de los procesos de reciclaje interno del sistema.
 
 En este acuario, la vegetación no se utiliza para corregir errores de diseño, sino como una **extensión funcional de la infraestructura**. El hardscape define el espacio; la flora lo **activa, amortigua y estabiliza**. La microflora, por su parte, **no se introduce de forma directa**: se facilita y protege mediante sustrato vivo, superficies porosas y ausencia de intervenciones agresivas.
 
-Este capítulo describe la estructura vegetal del sistema y establece el marco conceptual en el que emerge y se mantiene la microflora.
+Este capítulo describe la estructura vegetal del ecosistema y establece el marco conceptual en el que emerge y se mantiene la microflora.
 
 ### Principios generales del plantado
 
@@ -468,7 +471,7 @@ Incluyen nematodos no patógenos, paramecios, euglenas ocasionales y otros proto
 La microflora **no se mantiene**, se **protege**.  
 Cualquier acción que la degrade (limpiezas profundas, reseteos, cambios bruscos o esterilización sistemática) compromete directamente la estabilidad del acuario.
 
-Como se detalla en el capítulo de **Operación y umbrales de intervención**, la gestión del sistema está orientada a **preservar procesos**, no a corregir síntomas.
+Como se detalla en el capítulo de **Operación**, la gestión del sistema está orientada a **preservar procesos**, no a corregir síntomas.
 
 Este acuario asume que:
 - una microflora diversa es más relevante que parámetros puntuales,  
@@ -479,7 +482,7 @@ La microflora es el motivo por el cual este acuario puede operar de forma **prev
 
 ## Fauna
 
-La **fauna** representa la **capa biológica consciente y deliberada** del sistema: los organismos cuya presencia, número y momento de introducción se deciden explícitamente. A diferencia de la flora y la microflora —que estructuran, amortiguan y estabilizan el ecosistema— la fauna **vive, interactúa y responde activamente** al entorno. Por este motivo, su bienestar es el **criterio último** que valida todo el diseño previo.
+La **fauna** representa la **capa biológica consciente y deliberada** del sistema: los organismos cuya presencia, número y momento de introducción se deciden explícitamente. A diferencia de la flora y la microflora (que estructuran, amortiguan y estabilizan el ecosistema), la fauna **vive, interactúa y responde activamente** al entorno. Por este motivo, su bienestar es el **criterio último** que valida todo el diseño previo.
 
 Este acuario se diseña **desde la fauna hacia atrás**, no al revés.  
 El hardscape, el sustrato, el plantado, el flujo, la iluminación y los moduladores químicos existen para **crear un entorno estable, legible y seguro** para un conjunto muy concreto de especies, con especial énfasis en **_Betta splendens_** como especie focal.
@@ -503,7 +506,7 @@ El sistema opera deliberadamente en una **ventana común de confort** para toda 
 
 ### *Betta splendens* HMPK macho — Especie focal del sistema
 
-*Betta splendens* es la **especie focal y dominante** de este acuario. Todo el diseño —infraestructura, flujo, plantado, microflora y operación— está subordinado a su bienestar fisiológico y comportamental. No es un “habitante más”, sino el **usuario principal del ecosistema**.
+*Betta splendens* es la **especie focal y dominante** de este acuario. Todo el diseño (infraestructura, flujo, plantado, microflora y operación) está subordinado a su bienestar fisiológico y comportamental. No es un “habitante más”, sino el **usuario principal del ecosistema**.
 
 La elección de un macho **HMPK (Halfmoon Plakat)** es deliberada y técnica, alineada con el flujo difuso y el hardscape estructural del sistema.
 
@@ -569,7 +572,7 @@ En este sistema, *Clithon* sp. actúa como **herramienta biológica especializad
 - Requiere **KH ≥3 dKH** para preservar la integridad de la concha.  
 - En acidez sostenida (<6,6), su función deja de ser viable y el individuo debe retirarse.  
 - No introducir en sistemas excesivamente “limpios” sin biofilm establecido.  
-- Riesgo de escape: la **tapa es obligatoria**.
+- Riesgo de escape: debe existir siempre una **tapa física efectiva** que elimine la posibilidad de fuga.
 
 **Lectura estética y comportamental:**  
 En un sistema maduro, *Clithon* sp. pasa prácticamente desapercibido. No añade movimiento ni protagonismo visual: **elimina distracciones**. Su valor estético es indirecto y funcional: hace que el acuario se vea estable **sin parecer intervenido**.
@@ -786,6 +789,8 @@ Estos parámetros **no se persiguen activamente**: el acuario está **diseñado 
 | **Flujo** | **Lento–difuso** | Fragmentado por el acantilado y canalizado por el valle. Evita chorros directos y mantiene zonas de calma funcionales. |
 | **Iluminación global** | **≈10–30 lm/L** | Compatible con todo el plantado. Las flotantes modulan intensidad sin oscurecer valle ni playa. |
 
+> Estos valores se utilizan como marco de interpretación, no como objetivos de ajuste diario.
+
 ### Compatibilidad por grupos biológicos
 
 Esta tabla resume **por qué esta ventana funciona simultáneamente** para todos los componentes del sistema.
@@ -837,7 +842,7 @@ El hardware de control de este acuario **no gobierna el ecosistema**, sino que *
 **Cómo lo soluciona**
 - Volumen útil (~27–30 L) que permite un único pez focal, invertebrados funcionales y control térmico estable sin grandes inercias.
 - Vidrio low-iron de alta transparencia que permite lectura clara del paisaje y detección visual temprana de problemas.
-- Tapa de vidrio obligatoria que reduce evaporación, estabiliza temperatura y elimina riesgo de escape. Se dejan 4 mm de ventilación en cada lado.
+- Tapa de vidrio que reduce evaporación, estabiliza temperatura y elimina riesgo de escape. Se dejan 4 mm de ventilación en cada lado.
 
 **Datos estructurales relevantes**
 - **Modelo:** Blau Cubic Aquascaping 38  
@@ -999,7 +1004,7 @@ Sin PID, sin control fino, sin interferir con el acuario.
 - Evita interferencias entre flujo, temperatura y lectura del paisaje.
 - Previene lecturas térmicas falseadas.
 - Reduce puntos de fallo mecánico.
-- Trasera cerca de pared
+- La parte trasera está cerca de la pared
 
 **Cómo lo soluciona**
 - Todo soble lado corto derecho (espacio libre)
@@ -1012,21 +1017,21 @@ Sin PID, sin control fino, sin interferir con el acuario.
 
 ### Criterio de éxito del control
 
-El sistema de control es correcto cuando:
+La **capa de control** es correcta cuando:
 - la temperatura no es tema de conversación,
 - el flujo no se percibe como corriente,
 - la luz no exige ajustes constantes,
 - y el hardware pasa desapercibido.
 
-El control aquí no mantiene números: **evita escenarios extremos mientras el ecosistema se autorregula**.
+La capa de control aquí no mantiene números: **evita escenarios extremos mientras el ecosistema se autorregula**.
 
-> Si el sistema sigue estable sin atención continua, el control está cumpliendo su función.
+> Si el sistema sigue estable sin atención continua, esta capa de control está cumpliendo su función.
 
 ## Operación
 
 Este capítulo describe **cómo montar, poner en marcha y mantener el acuario** de forma coherente con sus principios de diseño. No se estructura por fechas, sino por **criterios biológicos y señales observables**.
 
-El sistema **no se fuerza**, **no se acelera** y **no se corrige de forma reactiva**. La estabilidad se alcanza permitiendo que cada fase ocurra por completo antes de pasar a la siguiente.
+El sistema **no se fuerza** ni se corrige de forma reactiva. La estabilidad se alcanza permitiendo que cada fase ocurra por completo antes de pasar a la siguiente.
 
 ### 1. Montaje inicial (fase única)
 
@@ -1078,7 +1083,7 @@ El plantado inicial tiene como objetivo **activar el sistema desde el primer dí
 - cobertura funcional de todos los estratos ecológicos,
 - capacidad de amortiguación durante ciclado y maduración temprana.
 
-No constituyen una prescripción rígida ni una obligación estética. Su función es **biológica y transitoria**: a medida que el sistema madura, estas cantidades pueden ajustarse sin comprometer el diseño.
+No constituyen una prescripción rígida ni una obligación estética. La apariencia inicial puede ser **provisional e incluso “fea”** siempre que se respeten los roles funcionales. Su función es **biológica y transitoria**: a medida que el sistema madura, estas cantidades pueden ajustarse sin comprometer el diseño.
 
 ##### Rol del plantado inicial
 
@@ -1172,9 +1177,7 @@ Aquí **ya no se cicla**: el ecosistema empieza a **organizarse internamente**.
 
 #### Objetivo
 
-- Establecer biofilm funcional
-- Permitir algas iniciales controladas
-- Activar microfauna espontánea
+- Establecer biofilm funcional, algas iniciales controladas y microfauna espontánea
 - Consolidar el plantado
 
 #### Indicadores positivos
@@ -1182,8 +1185,7 @@ Aquí **ya no se cicla**: el ecosistema empieza a **organizarse internamente**.
 - Biofilm presente pero no invasivo
 - Algas visibles en cristal y roca
 - Flotantes creciendo activamente
-- Agua cada vez más clara
-- pH y NO₃ sin oscilaciones bruscas
+- Agua cada vez más clara, sin oscilaciones bruscas de pH ni NO₃
 
 #### Intervención permitida
 
@@ -1325,7 +1327,7 @@ La dieta y la frecuencia se ajustan para:
 - El sistema debe poder **absorber errores puntuales** sin desestabilizarse.
 - La microfauna y el biofilm forman parte activa de la dieta indirecta del sistema.
 
-Nunca se alimenta “por costumbre”, sino por **necesidad observada**.
+No se alimenta “por costumbre”, sino por **necesidad observada**.
 
 ##### Alimentación del *Betta splendens*
 
@@ -1341,7 +1343,7 @@ El Betta es un **carnívoro oportunista** con metabolismo rápido pero eficiente
 **Criterios de ajuste:**
 - Reducir cantidad si aparecen restos, apatía o aumento rápido de NO₃.
 - Aumentar ligeramente solo si hay pérdida de condición corporal sostenida.
-- Nunca compensar un ayuno con sobrealimentación posterior.
+ - No compensar un ayuno con sobrealimentación posterior.
 
 El Betta **no debe depender** de la microfauna para su nutrición, pero puede beneficiarse de ella como estímulo conductual y enriquecimiento.
 
@@ -1417,9 +1419,9 @@ No se poda por calendario, sino por **señales sostenidas**.
 
 ##### Principios de poda
 
-- Nunca podar más de un estrato vegetal en la misma sesión.
-- Nunca realizar podas drásticas o “resets” de masa vegetal.
-- Priorizar siempre **retirar exceso**, no forzar crecimiento.
+- No podar más de un estrato vegetal en la misma sesión.
+- Evitar podas drásticas o “resets” de masa vegetal.
+- Priorizar **retirar exceso**, no forzar crecimiento.
 - Si existe duda, **no podar** y observar una semana más.
 
 ##### Poda por estratos funcionales
@@ -1440,7 +1442,7 @@ No se poda por calendario, sino por **señales sostenidas**.
 - Principal herramienta de control de luz y nitratos.
 - Se podan **antes** de ajustar iluminación o realizar cambios de agua.
 - Mantener una cobertura estable de **⅓ a ½ de la superficie**.
-- Nunca retirar toda la masa flotante de una vez.
+- No retirar toda la masa flotante de una vez.
 
 **Tapizantes funcionales y plantas de transición**  
 (*Marsilea*, *Sagittaria*)
@@ -1527,8 +1529,7 @@ La mayoría de problemas graves en acuarios pequeños no se deben al fallo inici
   - hay señales biológicas (jadeo, letargo).
 
 **Acción a evitar**
-- Enfriar agua manualmente.
-- Añadir hielo o cambios bruscos.
+- Enfriar agua manualmente con hielo o cambios bruscos.
 - Manipular iluminación como primera respuesta.
 
 #### 2. Fallos eléctricos
@@ -1579,7 +1580,7 @@ La mayoría de problemas graves en acuarios pequeños no se deben al fallo inici
 - Retirada completa de flotantes.
 
 **Respuesta del sistema**
-- El ecosistema pierde amortiguación temporal.
+- El sistema pierde amortiguación temporal.
 - Puede aparecer algas o inestabilidad transitoria.
 
 **Acción recomendada**
